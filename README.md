@@ -8,7 +8,7 @@ https://github.com/rodkunz/focusTimer/assets/97770762/0795339a-ab96-4b60-8aad-1c
 
 > O FocusTumer é um Timer desenvolvido em Javascript com possibilidade de alternar entre dark/light mode e música de fundo.
 
-[🔗Click to acess](https://rodkunz.github.io/guessing-game/)
+[🔗Click to acess](https://rodkunz.github.io/focusTimer/)
 
 ## 🛠 Technologies used
 
